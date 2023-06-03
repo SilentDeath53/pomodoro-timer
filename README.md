@@ -1,1 +1,2 @@
-# pomodoro-timer
+# Pomodoro Timer
+A simple Pomodoro Timer app.
